@@ -26,5 +26,7 @@ public class InputProgram {
 		System.out.println(result);
 		}
 	}
+	
+	//this is a for a demo purpose of git learning
 
 }
