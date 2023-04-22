@@ -24,4 +24,6 @@ public class Palindrome {
 		String reverse = new StringBuilder(word).reverse().toString();
 		return word.equals(reverse);
 	}
+	
+	//Just checking with the commit
 }
